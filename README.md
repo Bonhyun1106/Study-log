@@ -6,3 +6,7 @@
   
 2021.05.11(화)  
 - [리액트의 핵심, Components](https://www.notion.so/Components-f1a3a156570246c5a012b9adee045967) 내용 추가  
+
+2021.05.13(목)  
+- [React render의 기준, Shallow Comparison](https://www.notion.so/React-render-Shallow-Comparison-955f78cc7a14431b8e5ca3b8569dd651)  
+- [PureComponent와 Memo](https://www.notion.so/Components-f1a3a156570246c5a012b9adee045967#724cd2803140493d9e059be35771924d)
